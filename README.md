@@ -118,28 +118,6 @@ I believe great software combines clean architecture, intuitive user experiences
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
----
-
-## GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/djurslinn/djurslinn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/djurslinn/djurslinn/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/djurslinn/djurslinn/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
 
 ## LeetCode
 
